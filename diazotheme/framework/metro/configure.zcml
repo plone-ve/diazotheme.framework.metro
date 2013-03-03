@@ -1,0 +1,12 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    i18n_domain="diazotheme.framework.metro">
+
+  <five:registerPackage package="." initialize=".initialize" />
+
+  <plone:static directory="static" 
+                name="metro-framework" type="theme" />
+
+</configure>
