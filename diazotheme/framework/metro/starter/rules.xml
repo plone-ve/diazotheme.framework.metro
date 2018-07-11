@@ -8,7 +8,7 @@
   <!-- The condition makes sure that theme is only applied when served in the 
        plone main_template. This is necessary for functional edit popups in 
        Tiny, for example. -->
-  <theme href="++theme++amazium-framework/examples/starter-template.html" 
+  <theme href="/++framework++plone/index.html"
          css:if-content="#visual-portal-wrapper"/>
 
   <!-- Head rules
