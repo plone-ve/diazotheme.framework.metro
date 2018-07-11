@@ -4,6 +4,9 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Changed the diazo manifest file from Metro UI Starter Theme
+  [macagua]
+
 - Added improvements about README file
   [macagua]
 
