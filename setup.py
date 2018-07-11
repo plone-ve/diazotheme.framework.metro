@@ -6,7 +6,7 @@ version = '1.0'
 setup(name='diazotheme.framework.metro',
       version=version,
       description="A Diazo framework implementation for the Metro UI CSS framework",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # https://pypi.org/pypi?:action=list_classifiers
