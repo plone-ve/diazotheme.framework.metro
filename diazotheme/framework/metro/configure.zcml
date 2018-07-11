@@ -6,7 +6,7 @@
 
   <five:registerPackage package="." initialize=".initialize" />
 
-  <plone:static directory="static" 
+  <plone:static directory="starter" 
                 name="metro-framework" type="theme" />
 
 </configure>
